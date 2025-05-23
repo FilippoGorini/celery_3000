@@ -1,0 +1,116 @@
+﻿RELATION                           PARAMETER                 NEW VALUE
+--------                           ---------                 --- -----
+
+/*** 8156163_EMMT-ST-42-S-RM has no relations.
+
+Local Parameters
+----------------
+
+Symbolic constant               Current value        Properties                  
+------------------------------- -------------------- --------------------------- 
+PTC_MATERIAL_TYPE               9                    TYPE: Integer              
+                                                     SOURCE: Material           
+                                                     ACCESS: Locked             
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+
+PTC_FAILURE_CRITERION_TYPE      NONE                 TYPE: String               
+                                                     SOURCE: Material           
+                                                     ACCESS: Locked             
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     RESTRICTED: YES            
+
+PTC_FATIGUE_TYPE                NONE                 TYPE: String               
+                                                     SOURCE: Material           
+                                                     ACCESS: Locked             
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     RESTRICTED: YES            
+
+PTC_MATERIAL_SUB_TYPE           LINEAR               TYPE: String               
+                                                     SOURCE: Material           
+                                                     ACCESS: Locked             
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     RESTRICTED: YES            
+
+PTC_YOUNG_MODULUS               1.999480e+05         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     UNIT: MPa                  
+                                                     RESTRICTED: YES            
+
+PTC_POISSON_RATIO               2.700000e-01         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     RESTRICTED: YES            
+
+PTC_THERMAL_EXPANSION_COEF      1.170000e-05         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     UNIT: 1 / C                
+                                                     RESTRICTED: YES            
+
+PTC_SPECIFIC_HEAT               4.733410e+08         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     UNIT: mJ / (tonne C)       
+                                                     RESTRICTED: YES            
+
+PTC_THERMAL_CONDUCTIVITY        4.301252e+01         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     UNIT: mW / (mm C)          
+                                                     RESTRICTED: YES            
+
+PTC_MASS_DENSITY                7.827082e-09         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     UNIT: tonne / mm^3         
+                                                     RESTRICTED: YES            
+
+PTC_BEND_TABLE                                       TYPE: String               
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+
+PTC_XHATCH_FILE                 STEEL                TYPE: String               
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+
+TEMPERATURE                     0.000000e+00         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     UNIT: F                    
+
+PTC_MATERIAL_DESCRIPTION                             TYPE: String               
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+
+PTC_INITIAL_BEND_Y_FACTOR       5.000000e-01         TYPE: Real Number          
+                                                     SOURCE: Material           
+                                                     ACCESS: Full               
+                                                     DESIGNATED: NO             
+                                                     DESCRIPTION:               
+                                                     RESTRICTED: YES            
+

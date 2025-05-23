@@ -1,0 +1,54 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SUB_PISTON_MODULE_V3
+
+VOLUME =  5.6885812e+05  MM^3
+SURFACE AREA =  1.6518803e+05  MM^2
+AVERAGE DENSITY =  3.8295729e-09 TONNE / MM^3
+MASS =  2.1784836e-03 TONNE 
+CENTER OF GRAVITY with respect to _SUB_PISTON_MODULE_V3 coordinate frame:
+X   Y   Z    -1.2145447e+02  9.0019247e-02  2.9860568e+01  MM
+
+INERTIA with respect to _SUB_PISTON_MODULE_V3 coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  4.3776609e+00  1.6231316e-02  7.9052147e+00
+Iyx Iyy Iyz  1.6231316e-02  4.9711176e+01 -6.5513965e-03
+Izx Izy Izz  7.9052147e+00 -6.5513965e-03  4.8682538e+01
+
+INERTIA at CENTER OF GRAVITY with respect to _SUB_PISTON_MODULE_V3 coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.4351907e+00 -7.5865682e-03  4.5094278e-03
+Iyx Iyy Iyz -7.5865682e-03  1.5633501e+01 -6.9557618e-04
+Izx Izy Izz  4.5094278e-03 -6.9557618e-04  1.6547298e+01
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   2.4351849e+00  1.5633505e+01  1.6547300e+01
+
+ROTATION MATRIX from _SUB_PISTON_MODULE_V3 orientation to PRINCIPAL AXES:
+       1.00000       -0.00057        0.00032
+       0.00057        1.00000       -0.00076
+      -0.00032        0.00076        1.00000
+
+ROTATION ANGLES from _SUB_PISTON_MODULE_V3 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.000          0.000          0.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 3.3434037e+01  8.4713188e+01  8.7153819e+01  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SUB_PISTON_MODULE_V3 coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                  BOTTOM_BASE_V2            MATERIAL:                               AL6061
+         2.71020e-09  6.50648e-04 -1.33892e+02 -1.13529e-02  9.53385e+00
+                   SPACER_PISTON            MATERIAL:                                BRASS
+         8.40738e-09  2.29789e-05  0.00000e+00  0.00000e+00  1.60000e+01
+                   SUB_PISTON_70            MATERIAL:                              UNKNOWN
+         7.34851e-09  9.59493e-04 -1.09532e+02  2.12085e-01  2.99517e+01
+                   SPACER_PISTON            MATERIAL:                                BRASS
+         8.40738e-09  2.29789e-05  0.00000e+00  0.00000e+00  4.40000e+01
+                 BOTTOM_COVER_V2            MATERIAL:                               AL6061
+         2.71020e-09  5.22385e-04 -1.38547e+02  0.00000e+00  5.49985e+01

@@ -1,0 +1,46 @@
+﻿MASS PROPERTIES OF THE PART PLATE_L
+
+VOLUME =  2.5582047e+05  MM^3
+SURFACE AREA =  6.8458552e+04  MM^2
+DENSITY =  2.7935544e-09 TONNE / MM^3
+MASS =  7.1464840e-04 TONNE 
+CENTER OF GRAVITY with respect to _PLATE_L coordinate frame:
+X   Y   Z    -2.7862065e+00  9.9999991e+01  0.0000000e+00  MM
+
+INERTIA with respect to _PLATE_L coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.3224895e+01  1.9911574e-01  0.0000000e+00
+Iyx Iyy Iyz  1.9911574e-01  8.2758580e-01  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  1.2562771e+01
+
+INERTIA at CENTER OF GRAVITY with respect to _PLATE_L coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  6.0784126e+00  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  8.2203802e-01  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  5.4107404e+00
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   8.2203802e-01  5.4107404e+00  6.0784126e+00
+
+ROTATION MATRIX from _PLATE_L orientation to PRINCIPAL AXES:
+       0.00000        0.00000        1.00000
+       1.00000        0.00000        0.00000
+       0.00000        1.00000        0.00000
+
+ROTATION ANGLES from _PLATE_L orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.000         90.000         90.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 3.3915618e+01  8.7012597e+01  9.2225045e+01  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF BODIES OF THE PART
+(in part units and the _PLATE_L coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                          Body 1            MATERIAL:                               AL2014
+         2.79355e-09  7.14648e-04 -2.78621e+00  1.00000e+02  0.00000e+00

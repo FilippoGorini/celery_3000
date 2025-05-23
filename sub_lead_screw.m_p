@@ -1,0 +1,54 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SUB_LEAD_SCREW
+
+VOLUME =  2.4130909e+05  MM^3
+SURFACE AREA =  1.1220070e+05  MM^2
+AVERAGE DENSITY =  7.8270820e-09 TONNE / MM^3
+MASS =  1.8887461e-03 TONNE 
+CENTER OF GRAVITY with respect to _SUB_LEAD_SCREW coordinate frame:
+X   Y   Z    -1.7182511e-02  2.8814555e+01  1.2380915e+01  MM
+
+INERTIA with respect to _SUB_LEAD_SCREW coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.4776929e+01  0.0000000e+00 -1.1659051e-04
+Iyx Iyy Iyz  0.0000000e+00  1.0925377e+01  1.2127588e+00
+Izx Izy Izz -1.1659051e-04  1.2127588e+00  4.6785464e+00
+
+INERTIA at CENTER OF GRAVITY with respect to _SUB_LEAD_SCREW coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.2919223e+01 -9.3326405e-04 -5.1839329e-04
+Iyx Iyy Iyz -9.3326405e-04  1.0635856e+01  1.8865700e+00
+Izx Izy Izz -5.1839329e-04  1.8865700e+00  3.1103604e+00
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   2.6639020e+00  1.1082314e+01  1.2919224e+01
+
+ROTATION MATRIX from _SUB_LEAD_SCREW orientation to PRINCIPAL AXES:
+       0.00003        0.00056       -1.00000
+      -0.23029        0.97312        0.00054
+       0.97312        0.23029        0.00016
+
+ROTATION ANGLES from _SUB_LEAD_SCREW orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.000        -89.968        -13.314 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 3.7555395e+01  7.6599942e+01  8.2704934e+01  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SUB_LEAD_SCREW coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+ 1202312_EAMM-U-50-D32-42A-78-S1            MATERIAL:                              UNKNOWN
+         7.82708e-09  1.30098e-03  0.00000e+00  4.18117e+01 -2.23546e+01
+         8156163_EMMT-ST-42-S-RM            MATERIAL:                              UNKNOWN
+         0.00000e+00  0.00000e+00      ***          ***          ***    
+             OUTER_BOX_INTERFACE            MATERIAL:                                STEEL
+         7.82708e-09  2.09113e-04  0.00000e+00  1.27572e-01  1.42461e+01
+                           SCREW            MATERIAL:                                STEEL
+         7.82708e-09  3.44464e-04  4.23980e-03  1.38419e-03  1.43271e+02
+                    SHAFT_COLLAR            MATERIAL:                                STEEL
+         7.82708e-09  3.41900e-05 -9.91785e-01  0.00000e+00  4.00000e+00

@@ -1,0 +1,92 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY 1202312_EAMM-U-50-D32-42A-78-_1
+
+VOLUME =  1.6621514e+05  MM^3
+SURFACE AREA =  7.2801129e+04  MM^2
+AVERAGE DENSITY =  7.8270820e-09 TONNE / MM^3
+MASS =  1.3009795e-03 TONNE 
+CENTER OF GRAVITY with respect to _1202312_EAMM-U-50-D32-42A-78-_ coordinate frame:
+X   Y   Z     0.0000000e+00  4.1811744e+01 -2.2354603e+01  MM
+
+INERTIA with respect to _1202312_EAMM-U-50-D32-42A-78-_ coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  5.1321210e+00  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  1.2814382e+00  1.2132863e+00
+Izx Izy Izz  0.0000000e+00  1.2132863e+00  4.5614599e+00
+
+INERTIA at CENTER OF GRAVITY with respect to _1202312_EAMM-U-50-D32-42A-78-_ coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.2075837e+00  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  6.3130194e-01 -2.7196633e-03
+Izx Izy Izz  0.0000000e+00 -2.7196633e-03  2.2870589e+00
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   6.3129747e-01  2.2075837e+00  2.2870633e+00
+
+ROTATION MATRIX from _1202312_EAMM-U-50-D32-42A-78-_ orientation to PRINCIPAL AXES:
+       0.00000       -1.00000        0.00000
+       1.00000        0.00000       -0.00164
+       0.00164        0.00000        1.00000
+
+ROTATION ANGLES from _1202312_EAMM-U-50-D32-42A-78-_ orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.094          0.000         90.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 2.2028341e+01  4.1192994e+01  4.1927973e+01  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _1202312_EAMM-U-50-D32-42A-78-_ coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+ 1202296_EAMM-U-50-D32-42A-78-S-            MATERIAL:                                STEEL
+         7.82708e-09  6.50798e-04  0.00000e+00  4.31030e+01 -1.11130e+01
+ 1407661_EAMM-U-50-D32-___-128_8            MATERIAL:                                STEEL
+         7.82708e-09  5.55655e-04  0.00000e+00  4.17786e+01 -3.65682e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06  2.00000e+01 -7.00000e+00 -3.18593e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06  2.00000e+01  2.50000e+01 -3.18593e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06  2.00000e+01  7.40000e+01 -3.18593e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06 -2.00000e+01 -7.00000e+00 -3.18593e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06 -2.00000e+01  2.50000e+01 -3.18593e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06 -2.00000e+01  7.40000e+01 -3.18593e+01
+                  ISO-4762_M4X25            MATERIAL:                                STEEL
+         7.82708e-09  3.50947e-06  0.00000e+00  1.01000e+02 -3.18593e+01
+                   ISO-4762_M3X8            MATERIAL:                                STEEL
+         7.82708e-09  9.29500e-07  1.55000e+01  9.35000e+01 -2.54731e+00
+                   ISO-4762_M3X8            MATERIAL:                                STEEL
+         7.82708e-09  9.29500e-07  1.55000e+01  6.25000e+01 -2.54731e+00
+                   ISO-4762_M3X8            MATERIAL:                                STEEL
+         7.82708e-09  9.29500e-07 -1.55000e+01  6.25000e+01 -2.54731e+00
+                   ISO-4762_M3X8            MATERIAL:                                STEEL
+         7.82708e-09  9.29500e-07 -1.55000e+01  9.35000e+01 -2.54731e+00
+          1406086_M6-NBR-6X9_9X1            MATERIAL:                                STEEL
+         7.82708e-09  4.17752e-07  1.62500e+01  1.62500e+01 -3.75000e+00
+          1406086_M6-NBR-6X9_9X1            MATERIAL:                                STEEL
+         7.82708e-09  4.17752e-07  1.62500e+01 -1.62500e+01 -3.75000e+00
+          1406086_M6-NBR-6X9_9X1            MATERIAL:                                STEEL
+         7.82708e-09  4.17752e-07 -1.62500e+01  1.62500e+01 -3.75000e+00
+          1406086_M6-NBR-6X9_9X1            MATERIAL:                                STEEL
+         7.82708e-09  4.17752e-07 -1.62500e+01 -1.62500e+01 -3.75000e+00
+             DIN-6912_-_M6X18_F_            MATERIAL:                                STEEL
+         7.82708e-09  5.75043e-06  1.62500e+01  1.62500e+01  2.52324e+00
+             DIN-6912_-_M6X18_F_            MATERIAL:                                STEEL
+         7.82708e-09  5.75043e-06  1.62500e+01 -1.62500e+01  2.52324e+00
+             DIN-6912_-_M6X18_F_            MATERIAL:                                STEEL
+         7.82708e-09  5.75043e-06 -1.62500e+01  1.62500e+01  2.52324e+00
+             DIN-6912_-_M6X18_F_            MATERIAL:                                STEEL
+         7.82708e-09  5.75043e-06 -1.62500e+01 -1.62500e+01  2.52324e+00
+    1204122_EAMM-U-42A-S1---_DM_            MATERIAL:                                STEEL
+         7.82708e-09  5.25458e-06  0.00000e+00  7.80000e+01  2.50000e-01
+         2428478_EAMH-50-5-C13_6            MATERIAL:                                STEEL
+         7.82708e-09  1.85761e-05  0.00000e+00  7.70000e+01 -2.17052e+01
+         2428479_EAMH-50-6-C13_6            MATERIAL:                                STEEL
+         7.82708e-09  1.77383e-05  0.00000e+00  0.00000e+00 -2.19304e+01

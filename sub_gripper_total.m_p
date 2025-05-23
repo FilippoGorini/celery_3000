@@ -1,0 +1,54 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SUB_GRIPPER_TOTAL
+
+VOLUME =  3.4982606e+06  MM^3
+SURFACE AREA =  1.2471025e+06  MM^2
+AVERAGE DENSITY =  3.3952880e-09 TONNE / MM^3
+MASS =  1.1877602e-02 TONNE 
+CENTER OF GRAVITY with respect to _SUB_GRIPPER_TOTAL coordinate frame:
+X   Y   Z    -3.1327690e-01 -1.5015823e+02 -1.2697348e+02  MM
+
+INERTIA with respect to _SUB_GRIPPER_TOTAL coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.5797843e+03 -4.2912972e-02 -1.4162221e+00
+Iyx Iyy Iyz -4.2912972e-02  4.4376611e+02 -1.6876358e+02
+Izx Izy Izz -1.4162221e+00 -1.6876358e+02  1.2650084e+03
+
+INERTIA at CENTER OF GRAVITY with respect to _SUB_GRIPPER_TOTAL coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.1204803e+03  5.1582256e-01 -9.4375647e-01
+Iyx Iyy Iyz  5.1582256e-01  2.5227108e+02  5.7696127e+01
+Izx Izy Izz -9.4375647e-01  5.7696127e+01  9.9719705e+02
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   2.4782849e+02  1.0016324e+03  1.1204875e+03
+
+ROTATION MATRIX from _SUB_GRIPPER_TOTAL orientation to PRINCIPAL AXES:
+      -0.00067        0.00758        0.99997
+       0.99705        0.07677        0.00009
+      -0.07677        0.99702       -0.00761
+
+ROTATION ANGLES from _SUB_GRIPPER_TOTAL orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z-179.336         89.564        -95.066 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 1.4444790e+02  2.9039544e+02  3.0714194e+02  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SUB_GRIPPER_TOTAL coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                   MAIN_FRAME_V2            MATERIAL:                               AL6061
+         2.71020e-09  5.61542e-04  0.00000e+00  2.62640e+01 -2.84584e+01
+                  SUB_LEAD_SCREW            MATERIAL:                              UNKNOWN
+         7.82708e-09  1.88875e-03  1.71825e-02  7.61909e+00 -6.38146e+01
+                   SUB_PRISMATIC            MATERIAL:                              UNKNOWN
+         4.10695e-09  1.51953e-03  0.00000e+00 -3.07890e+02 -3.50048e+01
+                      SUB_TOP_V2            MATERIAL:                              UNKNOWN
+         2.67882e-09  4.48465e-03 -6.75554e-01  1.04945e+02 -1.91065e+02
+                   SUB_BOTTOM_V2            MATERIAL:                              UNKNOWN
+         3.40390e-09  3.42313e-03 -2.11512e-01 -5.30348e+02 -1.34841e+02

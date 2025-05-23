@@ -1,0 +1,52 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SUB_PRISMATIC
+
+VOLUME =  3.6999019e+05  MM^3
+SURFACE AREA =  2.6307696e+05  MM^2
+AVERAGE DENSITY =  4.1069459e-09 TONNE / MM^3
+MASS =  1.5195297e-03 TONNE 
+CENTER OF GRAVITY with respect to _SUB_PRISMATIC coordinate frame:
+X   Y   Z     0.0000000e+00  4.8431456e-03  3.2788993e+02  MM
+
+INERTIA with respect to _SUB_PRISMATIC coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.9291355e+02  0.0000000e+00 -1.3012257e-04
+Iyx Iyy Iyz  0.0000000e+00  1.9291275e+02  8.9641980e-05
+Izx Izy Izz -1.3012257e-04  8.9641980e-05  5.8103338e-01
+
+INERTIA at CENTER OF GRAVITY with respect to _SUB_PRISMATIC coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.9546169e+01  0.0000000e+00 -2.0674967e-04
+Iyx Iyy Iyz  0.0000000e+00  2.9545370e+01  2.5026835e-03
+Izx Izy Izz -2.0674967e-04  2.5026835e-03  5.8103335e-01
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   5.8103313e-01  2.9545371e+01  2.9546169e+01
+
+ROTATION MATRIX from _SUB_PRISMATIC orientation to PRINCIPAL AXES:
+       0.00001       -0.00538       -0.99999
+      -0.00009        0.99999       -0.00538
+       1.00000        0.00009        0.00001
+
+ROTATION ANGLES from _SUB_PRISMATIC orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z  89.929        -89.692         89.924 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 1.9554461e+01  1.3944088e+02  1.3944277e+02  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SUB_PRISMATIC coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                       OUTER_BOX            MATERIAL:                               AL6061
+         2.71020e-09  4.29327e-04  0.00000e+00  1.88372e-02  1.66858e+02
+                       INNER_BOX            MATERIAL:                               AL6061
+         2.71020e-09  3.20290e-04  0.00000e+00  0.00000e+00  3.65482e+02
+             INNER_BOX_INTERFACE            MATERIAL:                                STEEL
+         7.82708e-09  2.06742e-04  0.00000e+00  0.00000e+00  5.05311e+02
+                    SCREW_FEMALE            MATERIAL:                                BRASS
+         8.40738e-09  5.63171e-04 -4.14375e-04 -1.29043e-03  3.64140e+02

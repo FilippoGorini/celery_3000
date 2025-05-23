@@ -1,0 +1,48 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SUB_PISTON_70
+
+VOLUME =  1.3056968e+05  MM^3
+SURFACE AREA =  4.9170129e+04  MM^2
+AVERAGE DENSITY =  7.3485120e-09 TONNE / MM^3
+MASS =  9.5949288e-04 TONNE 
+CENTER OF GRAVITY with respect to _SUB_PISTON_70 coordinate frame:
+X   Y   Z     4.8297537e-02 -2.1208531e-01 -6.9968014e+01  MM
+
+INERTIA with respect to _SUB_PISTON_70 coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.0372418e+01 -5.8094638e-04  4.4370023e-03
+Iyx Iyy Iyz -5.8094638e-04  1.0368880e+01 -1.9883823e-02
+Izx Izy Izz  4.4370023e-03 -1.9883823e-02  1.4253195e-01
+
+INERTIA at CENTER OF GRAVITY with respect to _SUB_PISTON_70 coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  5.6751549e+00 -5.9077465e-04  1.1946045e-03
+Iyx Iyy Iyz -5.9077465e-04  5.6716582e+00 -5.6457282e-03
+Izx Izy Izz  1.1946045e-03 -5.6457282e-03  1.4248655e-01
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   1.4248053e-01  5.6715663e+00  5.6752528e+00
+
+ROTATION MATRIX from _SUB_PISTON_70 orientation to PRINCIPAL AXES:
+      -0.00022        0.16276       -0.98667
+       0.00102        0.98667        0.16276
+       1.00000       -0.00097       -0.00038
+
+ROTATION ANGLES from _SUB_PISTON_70 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -90.133        -80.633        -90.076 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 1.2185880e+01  7.6883055e+01  7.6908037e+01  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SUB_PISTON_70 coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+        5249854_DSNU-32-70-PPV-A            MATERIAL:                              UNKNOWN
+         7.82708e-09  9.24813e-04  5.01086e-02 -2.20038e-01 -7.65288e+01
+                  CYLINDER_JOINT            MATERIAL:                               AL2014
+         2.79355e-09  3.46795e-05  0.00000e+00  0.00000e+00  1.04992e+02

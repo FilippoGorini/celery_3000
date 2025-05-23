@@ -1,0 +1,70 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SUB_TOP_V2
+
+VOLUME =  1.6741156e+06  MM^3
+SURFACE AREA =  4.7555527e+05  MM^2
+AVERAGE DENSITY =  2.6788202e-09 TONNE / MM^3
+MASS =  4.4846547e-03 TONNE 
+CENTER OF GRAVITY with respect to _SUB_TOP_V2 coordinate frame:
+X   Y   Z    -2.4406541e+02 -6.7555381e-01  2.9944571e+01  MM
+
+INERTIA with respect to _SUB_TOP_V2 coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  5.1782228e+01 -1.3831514e+00  3.2811152e+01
+Iyx Iyy Iyz -1.3831514e+00  3.6717489e+02  1.0284780e-01
+Izx Izy Izz  3.2811152e+01  1.0284780e-01  4.0644307e+02
+
+INERTIA at CENTER OF GRAVITY with respect to _SUB_TOP_V2 coordinate frame:  (TONNE * MM^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  4.7758893e+01 -6.4372455e-01  3.5348095e-02
+Iyx Iyy Iyz -6.4372455e-01  9.6012015e+01  1.2126960e-02
+Izx Izy Izz  3.5348095e-02  1.2126960e-02  1.3929944e+02
+
+PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
+I1  I2  I3   4.7750293e+01  9.6020598e+01  1.3929946e+02
+
+ROTATION MATRIX from _SUB_TOP_V2 orientation to PRINCIPAL AXES:
+       0.99991       -0.01334        0.00038
+       0.01334        0.99991        0.00027
+      -0.00039       -0.00027        1.00000
+
+ROTATION ANGLES from _SUB_TOP_V2 orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.000          0.000          0.764 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 1.0318665e+02  1.4632472e+02  1.7624232e+02  MM
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SUB_TOP_V2 coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+            SUB_PISTON_MODULE_V3            MATERIAL:                              UNKNOWN
+         3.83119e-09  2.17626e-03 -1.21680e+02  9.01125e-02  2.98858e+01
+                   SPACER_FINGER            MATERIAL:                                BRASS
+         8.40738e-09  5.45254e-05 -2.65219e+02  6.50000e+01  1.62500e+01
+                   SPACER_FINGER            MATERIAL:                                BRASS
+         8.40738e-09  5.45254e-05 -2.65219e+02 -6.50000e+01  1.62500e+01
+                   FINGER_TOP_V2            MATERIAL:                               AL6061
+         2.71020e-09  1.73538e-04 -3.02342e+02  9.81397e+01  2.98210e+01
+                   FINGER_TOP_V2            MATERIAL:                               AL6061
+         2.71020e-09  1.73538e-04 -3.02342e+02 -9.81397e+01  3.01790e+01
+                   SPACER_FINGER            MATERIAL:                                BRASS
+         8.40738e-09  5.45254e-05 -2.65219e+02  6.50000e+01  4.37500e+01
+                   SPACER_FINGER            MATERIAL:                                BRASS
+         8.40738e-09  5.45254e-05 -2.65219e+02 -6.50000e+01  4.37500e+01
+                        FING_ACT            MATERIAL:                                STEEL
+         7.82708e-09  8.05273e-05 -2.62400e+02  1.35886e+01  4.00000e+01
+                        FING_ACT            MATERIAL:                                STEEL
+         7.82708e-09  8.05273e-05 -2.62400e+02 -1.35886e+01  2.00000e+01
+                        FING_ACT            MATERIAL:                                STEEL
+         7.82708e-09  8.05273e-05 -2.62400e+02 -1.35886e+01  4.50000e+01
+                        FING_ACT            MATERIAL:                                STEEL
+         7.82708e-09  8.05273e-05 -2.62400e+02  1.35886e+01  1.50000e+01
+                     SUB_PLATE_R            MATERIAL:                              UNKNOWN
+         1.53490e-09  6.99910e-04 -4.09849e+02  1.51463e+02  3.00000e+01
+                     SUB_PLATE_L            MATERIAL:                              UNKNOWN
+         1.58532e-09  7.21199e-04 -4.09847e+02 -1.51465e+02  3.00000e+01
