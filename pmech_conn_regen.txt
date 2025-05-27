@@ -21,6 +21,6 @@ SUB_ROBOT_MODEL (component id path [40]) can't be satisfied.
 
 
 5) The following kinematic loop can't be closed: Ground - body1 - body2 - body3
-- body4 - body5 - body17 - Ground.
+- body4 - body5 - body10 - Ground.
 
 

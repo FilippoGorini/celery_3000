@@ -1,39 +1,39 @@
 ﻿MASS PROPERTIES OF THE ASSEMBLY SUB_GRIPPER_TOTAL
 
-VOLUME =  3.5086551e+06  MM^3
-SURFACE AREA =  1.2604716e+06  MM^2
-AVERAGE DENSITY =  3.5858506e-09 TONNE / MM^3
-MASS =  1.2581513e-02 TONNE 
+VOLUME =  3.4723004e+06  MM^3
+SURFACE AREA =  1.2487240e+06  MM^2
+AVERAGE DENSITY =  3.3587109e-09 TONNE / MM^3
+MASS =  1.1662453e-02 TONNE 
 CENTER OF GRAVITY with respect to _SUB_GRIPPER_TOTAL coordinate frame:
-X   Y   Z    -3.0111246e-02 -6.5399621e+01 -1.1974202e+02  MM
+X   Y   Z    -3.2370515e-02 -5.7440688e+01 -1.2121079e+02  MM
 
 INERTIA with respect to _SUB_GRIPPER_TOTAL coordinate frame:  (TONNE * MM^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  8.8167445e+02  4.5147041e-03 -1.5202939e-01
-Iyx Iyy Iyz  4.5147041e-03  4.1774471e+02 -6.6873162e+01
-Izx Izy Izz -1.5202939e-01 -6.6873162e+01  4.9065425e+02
+Ixx Ixy Ixz  8.1294943e+02  5.0796390e-03 -1.5198483e-01
+Iyx Iyy Iyz  5.0796390e-03  3.9802872e+02 -5.4656617e+01
+Izx Izy Izz -1.5198483e-01 -5.4656617e+01  4.3835695e+02
 
 INERTIA at CENTER OF GRAVITY with respect to _SUB_GRIPPER_TOTAL coordinate frame:  (TONNE * MM^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  6.4746630e+02  2.9291025e-02 -1.0666573e-01
-Iyx Iyy Iyz  2.9291025e-02  2.3734907e+02  3.1653705e+01
-Izx Izy Izz -1.0666573e-01  3.1653705e+01  4.3684172e+02
+Ixx Ixy Ixz  6.0312455e+02  2.6764626e-02 -1.0622538e-01
+Iyx Iyy Iyz  2.6764626e-02  2.2668331e+02  2.6542409e+01
+Izx Izy Izz -1.0622538e-01  2.6542409e+01  3.9987746e+02
 
 PRINCIPAL MOMENTS OF INERTIA:  (TONNE * MM^2)
-I1  I2  I3   2.3244700e+02  4.4174374e+02  6.4746635e+02
+I1  I2  I3   2.2270691e+02  4.0385380e+02  6.0312461e+02
 
 ROTATION MATRIX from _SUB_GRIPPER_TOTAL orientation to PRINCIPAL AXES:
-      -0.00011        0.00049        1.00000
-       0.98822        0.15304        0.00003
-      -0.15304        0.98822       -0.00050
+      -0.00011        0.00051        1.00000
+       0.98896        0.14816        0.00003
+      -0.14816        0.98896       -0.00052
 
 ROTATION ANGLES from _SUB_GRIPPER_TOTAL orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z   0.000         89.971         81.197 
+angles about x  y  z   0.000         89.970         81.480 
 
 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3 1.3592381e+02  1.8737807e+02  2.2685177e+02  MM
+R1  R2  R3 1.3818850e+02  1.8608747e+02  2.2740948e+02  MM
 
 ---------------------------------------------
 
@@ -49,10 +49,10 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
                    ANGLE_BRACKET            MATERIAL:                                STEEL
          7.82708e-09  2.63783e-05 -2.85000e+01  4.71970e+01 -2.78030e+01
                   SUB_LEAD_SCREW            MATERIAL:                              UNKNOWN
-         7.82708e-09  1.88875e-03  1.71825e-02  7.61909e+00 -6.38146e+01
+         7.82708e-09  1.85906e-03  1.85831e-02  1.18306e+01 -6.42843e+01
                    SUB_PRISMATIC            MATERIAL:                              UNKNOWN
-         4.10695e-09  1.51953e-03  0.00000e+00 -1.65408e+02 -3.50048e+01
+         3.23686e-09  1.09330e-03  0.00000e+00 -1.44702e+02 -3.50064e+01
                       SUB_TOP_V2            MATERIAL:                              UNKNOWN
-         2.56014e-09  4.25283e-03 -3.55240e-02  1.04997e+02 -1.96005e+02
+         2.42084e-09  4.02143e-03 -3.75680e-02  1.04996e+02 -1.97728e+02
                    SUB_BOTTOM_V2            MATERIAL:                              UNKNOWN
-         3.17540e-09  3.24612e-03 -8.02274e-02 -3.31926e+02 -1.39115e+02
+         2.94967e-09  3.01438e-03 -8.63945e-02 -3.32073e+02 -1.37020e+02
